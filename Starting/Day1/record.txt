@@ -1,0 +1,85 @@
+PYTHON
+
+Moving to this language that I have for some reason hated. Idk why. Just happened.
+Learning it. Long run it's for AI and Machine Learning.
+Short term, challenging myself.
+Having different languages doing this similar and the same as well.
+Trying to relate the concepts to javascript.
+
+This helps to understand both languages better and appreciate both.(Been learning react and Vuejs as well. A bit of svelte too.)
+
+The arithmetic stuff are just similar. There is a weird division with //. Called a floor division operator.It performs division and then rounds the result down to the nearest whole number (integer). 
+
+Use '+...+'
+
+Takes use input 
+	name= input("What is your name?")
+	print("Hello '+ name +' !")
+
+Type casting
+Used to change data types
+ eg str(30) or int(30.5)
+ the str converts to string to be used in a sentence   like structure.
+Works like stringify in js
+
+LIST
+use the [] brackets
+they are mutable=> can change values
+they can have repeating values
+they can have different data types
+
+		Operations
+len()
+gives length of list
+
+
+
+insert(index, value)
+adds items to the said index. Index is the position
+
+pop(index)
+removes last item if index is not specified
+
+remove(value)
+deletes chosen value
+
+del list_name[index]
+deletes value at  chosen index
+or delete entire list using del list_name
+
+clear()
+deletes all items from list
+list remains but is empty
+
+append(value)
+value added to the end of the list
+
+extend(list or tuple)
+adds new list to the end of an existing one
+
+for loop
+list = [values]
+for x in list:
+   print(x)
+
+for loop and range plus len
+thislist = ["apple", "banana", "cherry"]
+for i in range(len(thislist)):
+  print(thislist[i])
+
+while loop 
+list = [values]
+i = 0 
+while i < len(list):
+  print(list[i])
+  i = i + 1
+
+list comprehension
+list = [values]
+[print (x) for x in list]
+
+newlist = [expression for item in iterable if condition == True]
+
+fruits = ["apple", "banana", "cherry", "kiwi", "mango"]
+newlist = [x for x in fruits if "a" in x]
+print(newlist)
