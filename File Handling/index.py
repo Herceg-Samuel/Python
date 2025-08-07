@@ -1,5 +1,5 @@
 
-
+ 
 try:
     file = open('movies.txt','r')
     print(file.read())

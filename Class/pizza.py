@@ -7,3 +7,13 @@
 # 4. Add a method to print pizza details:
 #    - size, crust, and all toppings (or “No toppings yet!”)
 # 5. Create a pizza object, customize it, and print the summary
+
+class Pizza:
+    def __init__(self, size, crust, toppings):
+        self.size = size
+        self.crust = crust
+        self.toppings = toppings
+
+        def add_toppings(self, toppings):
+            self.topping.append(toppings)
+
