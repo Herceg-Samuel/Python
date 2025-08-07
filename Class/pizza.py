@@ -14,6 +14,11 @@ class Pizza:
         self.crust = crust
         self.toppings = toppings
 
-        def add_toppings(self, toppings):
-            self.topping.append(toppings)
+    def add_toppings(self, toppings):
+        toppings = 0
 
+        self.topping.append(toppings) = toppings
+        toppings += toppings
+        return toppings
+ 
+add_toppings(2) 
