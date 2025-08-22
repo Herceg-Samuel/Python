@@ -22,3 +22,4 @@ class Wizard(Doctor,Fighter):
     
 character1=Wizard()
 character1.move()
+character1.heal()

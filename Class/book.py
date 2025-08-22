@@ -37,4 +37,6 @@ print(book1 < book2)
 
 print(book1 + book2)
 
+#case sensitive
 print("Steven" in book1)
+print("steven" in book1)

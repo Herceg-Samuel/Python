@@ -37,7 +37,7 @@ passengers = {
 
 }
 
-print(passengers)
+#print(passengers)
 
 print("Starting roster")
 for seat, info in passengers.items():

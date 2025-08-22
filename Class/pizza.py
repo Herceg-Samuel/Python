@@ -15,10 +15,8 @@ class Pizza:
         self.toppings = toppings
 
     def add_toppings(self, toppings):
-        toppings = 0
+        #toppings = 0
 
         self.topping.append(toppings) = toppings
         toppings += toppings
         return toppings
- 
-add_toppings(2) 
