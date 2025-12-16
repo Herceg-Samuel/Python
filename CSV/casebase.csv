@@ -1,0 +1,39 @@
+id,disease_name,symptoms,pests,effects,control_measures
+1,Red Rot,Affected Parenchymatous Tissues|Cut Ends Show Reddening|Dark Brownish Lesions On Rind|Entire Stool Dries|Hollow Cavity With Grey Mycelium|Necrosis On Nodal Region|Reddened Areas With White Patches,Colletotrichum Falcatum,,Carbendazim|Thiophanate Methyl
+2,Smut,Black Whip Structures|Excessive Tillering Lanky|Narrow Weak Leaves|Proliferating Axillary Buds|Stem Or Leaf Galls|Stunted Thin Canes|Whip-Like Sorus-Bearing Structures,Sporisorium Scitamineum,,Propiconazole
+3,Wilt,Dried Canes Detopped Crown|Dull Brownish Discolouration Internal|Linear Pith Cavities|Yellowish Foliage|Yellowish Stools Drying,Fusarium Sacchari,,
+4,Sett Rot,Pineapple Odor|Sett Blackening With Spores|Sett Rot Before Germination|Setts Fail To Germinate|Shoot Die After Emergence|Stunted Chlorotic Shoots|Wilting And Withering,Ceratocystis Paradoxa,,Carbendazim|Thiophanate Methyl
+5,Ratoon Stunting Disease,Reduced Tillering|Stunted Growth|Thin Stalks Shortened Internodes|Vascular Bundle Discolouration Nodes|Yellowish Foliage,Leifsonia Xyli,,
+6,Grassy Shoot,Excessive Tillering Lanky|Grass Like Appearance|Narrow Leaves|Stunted Growth,Sugarcane Grassy Shoot Phytoplasma,,
+7,Mosaic,Chlorotic Areas Young Leaves|Mild Mottling|Necrosis|Stunting|Yellowing|Yellowish Stripes,Sugarcane Mosaic Virus,,
+8,Yellow Leaf Disease,Bunching Leaves Top|Necrosis|Reddish Pinkish Discolouration Midrib|Reduced Cane Thickness|Shortening Internodes Top|Stunted Growth|Yellowing|Yellowish Midrib Lower Surface,Sugarcane Yellow Leaf Virus,,
+9,Pokkah Boeng,Irregular Reddish Stripes Specks|Knife Cut Symptoms|Malformed Twisted Top|Top Rot|White Mycelium On Leaves|Wrinkling Twisting Shortening Leaves,Fusarium Proliferatum|Fusarium Verticillioides,,
+10,Leaf Fleck,Fleck Coalescence|Flecks Specks Leaf Lamina|Mottling On Middle Leaves|Premature Leaf Drying|Reddening And Drying|Reduced Plant Vigor|Tiny Chlorotic Flecks,Sugarcane Bacilliform Virus,,
+11,Rust,Rust Pustules,Foliar Fungus,,Copper Oxychloride|Mancozeb
+12,Eye Spot,Eye Shaped Spots|Grey Or Tan Center In Mature Spots|Lesions 0 5 To 4 Mm Long With Yellowish Brown Margins|Lesions May Coalesce Into Long Streaks|Minute Water Soaked Spots On Young Leaves|Reddish Brown Elliptical Lesions Parallel To Veins|Reddish Brown To Yellowish Runners Streaking Toward Leaf Tip|Seedling Blight And Top Rot In Severe Infections,Foliar Fungus,,Copper Oxychloride|Mancozeb
+13,Brown Spot,Brown Spots|Lesion Size Approximately 3 To 15 Mm|Narrow Yellow Halo Around Spots|Occurs From Seedling Stage Through Maturity Under Favourable Conditions|Red Brown Oval Or Elliptical Lesions On Leaf Blade|Spots May Increase And Coalesce Forming Larger Necrotic Areas,Foliar Fungus,,Copper Oxychloride|Mancozeb
+14,Yellow Spot,Gray Fuzzy Down Of Conidiophores Often On Leaf Underside|Lesions Enlarge And Turn Reddish Or Brown With Age|Small Yellow Leaf Lesions Initially|Splotchy Yellow Lesions That May Transition To Brown|Visible From Distance When Widespread In Canopy Wet Tropics|Yellow Spots,Foliar Fungus,,Copper Oxychloride|Mancozeb
+15,Brown Stripe,Brown Lesions Along Leaf Blades Parallel To Veins|Brown Stripes|Disease Develops Under Warm Humid Conditions|Lesions May Merge Into Bands Covering Large Leaf Area|Narrow Dark Brown Stripes On Young Leaves,Foliar Fungus,,Copper Oxychloride|Mancozeb
+16,Ring Spot,Larger Elongated Lesions 2 5 To 5 Mm X 10 To 18 Mm With Red Brown Margins|Narrow Yellow Halo Surrounding Each Spot|Ring Shaped Spots|Small Black Fruiting Bodies May Be Visible In Old Lesions|Small Elongated Or Oval Spots Dark Olivaceous Green To Reddish Brown|Spots Coalesce Into Patches Leading To Leaf Chlorosis And Necrosis,Foliar Fungus,,Copper Oxychloride|Mancozeb
+17,Leaf Scald,Cane Death In Advanced Infection|Leaf Yellowing From Tip|Stunted Growth|White Stripes On Leaves,Xanthomonas Albilineans,,
+18,Leaf Blast,Lesions Turn Brown And Merge Into Larger Blighted Areas|Severe Infection Causes Whole Leaf To Wither And Dry|Small Yellowish Or Pale Spots On Leaf Blades Initially|Spots Extend Long Axes Parallel To Leaf Veins|Yellow Narrow Spots With Long Axes Parallel To Vessels,Paraphaeosphaeria Michotii,,
+19,Curvularia Leaf Spot,Lesions May Coalesce And Cause Early Leaf Senescence|Pale Yellow Ribbon Or Band On First Few Leaves Of Seedlings|Red Changes Around Lesion|Red Or Reddish Margin Or Red Changes Around Lesion Center|Slight Pale Yellow Ribbon On First Five Leaves|Small To Medium Brown Or Reddish Elliptical Lesions On Leaves,,,
+20,Orange Rust,Leaf Yellowing|Orange Powdery Pustules|Premature Leaf Drying|Pustules Between Leaf Veins|Reduced Tillering|Stunted Growth|Yellow Orange Streaks On Leaves,,,
+21,Rust Brown,Brown Tawny Pustules|Lesion Coalescence|Reduced Canopy Density|Small Chlorotic Puncta,,,
+22,Fiji Disease,Leaf Rust Brown Patches|Stunted Growth|Wilting Of Whole Plant,Delphacidae,,
+23,Sugarcane Yellow Leaf Virus,,Aphididae,,
+24,Sugarcane Yellow Leaf Luteovirus,,Coccidae,,
+25,Dead Tissue,,Buprestidae,,
+26,Curvularia Lunata,,Curvularia Leaf Spot,,
+27,Dead Heart,,Early Shoot Borer|Root Borer,Dead Heart|Shoot Wilting|Tunneling Stem|Underground Stalk Damage|Yield Loss,Organic Pest Controller
+28,Leaf Mines,,Top Shoot Borer,Dead Heart|Malformed Leaves|Reduced Tillering|Shortened Internodes|Suppressed Shoot Growth|Tip Wilting,Fipronil|Organic Pest Controller
+29,Bunchy Top,,Top Shoot Borer,Dead Heart|Malformed Leaves|Reduced Tillering|Shortened Internodes|Suppressed Shoot Growth|Tip Wilting,Fipronil|Organic Pest Controller
+30,Constricted Internodes,,Internode Borer,Borehole Sealing|Shortened Internodes|Yield Loss,
+31,Boreholes,,Internode Borer,Borehole Sealing|Shortened Internodes|Yield Loss,
+32,Leaf Sheath Decay,,Stalk Borer,Breakage At Wind|Increased Fiber Percentage|Internal Tissue Destruction|Lodging|Poor Cane Quality|Reduced Juice Content|Tunneling In Lower Stalk,
+33,Phloem Sap Feeding,,Leaf Hopper,Hopperburn Damage|Leaf Tip Necrosis|Reduced Tillering|Sap Extraction|Stunted Plants|Virus Transmission|Yellowing Of Leaf Blades,Chakrawarti
+34,Sooty Mold Development,,Leaf Hopper,Hopperburn Damage|Leaf Tip Necrosis|Reduced Tillering|Sap Extraction|Stunted Plants|Virus Transmission|Yellowing Of Leaf Blades,Chakrawarti
+35,Leaf Yellowing,,Whitefly,Discoloration|Leaf Drying|Slow Plant Growth,Imd-178
+36,Leaf Paling,,Whitefly,Discoloration|Leaf Drying|Slow Plant Growth,Imd-178
+37,Sooty Mold,,Mealy Bug|Whitefly,Discoloration|Leaf Drying|Slow Plant Growth,Imd-178
+38,Sap Sucking,,Mealy Bug,,
